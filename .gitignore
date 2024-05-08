@@ -1,0 +1,14 @@
+# Google API credentials
+credentials.json
+
+# Goのビルド成果物
+*.exe
+*.out
+*.dll
+
+# IDEの設定ファイル（使っている場合）
+.vscode/
+.idea/
+
+# env
+.env
